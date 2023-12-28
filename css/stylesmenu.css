@@ -2,7 +2,7 @@ body{
     background-color: azure;
 }
 a{
-    text-decoration:dotted;
+    text-decoration:none;
     color:black;}
 a:hover{
     color: grey;
