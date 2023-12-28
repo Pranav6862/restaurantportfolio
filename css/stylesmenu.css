@@ -1,0 +1,9 @@
+body{
+    background-color: azure;
+}
+a{
+    text-decoration:dotted;
+    color:black;}
+a:hover{
+    color: grey;
+}
